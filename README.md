@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **gajendramandal2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e5pedhnFMD1oBpM8xNs1KNMHySnlhKS9/view?usp=sharing](https://drive.google.com/file/d/1e5pedhnFMD1oBpM8xNs1KNMHySnlhKS9/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/12qpBCWIflX3UC2fF4v-nZKdR9ZR6nGZ7/view?usp=sharing](https://drive.google.com/file/d/12qpBCWIflX3UC2fF4v-nZKdR9ZR6nGZ7/view?usp=sharing)
 - ⚡ Fun fact **I love staying updated on the latest technological advancements happening around the world.**
 
 <h3 align="left">Connect with me:</h3>
