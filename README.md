@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendramandal&label=Profile%20views&color=0e75b6&style=flat" alt="gajendramandal" /> </p>
 
-- 🔭 I’m currently working on [Bahikhata](https://dev-bahikhata.pantheonsite.io/)
+- 🔭 I’m currently working on [IoT devices]
 
-- 🌱 I’m currently learning **React and Backend Developer**
+- 🌱 I’m currently learning **Computer Vision**
 
-- 💬 Ask me about **HTML,CSS,JS,Python,wordpress**
+- 💬 Ask me about **CV,ML,AI,HTML,CSS,JS,Python,wordpress**
 
 - 📫 How to reach me **gajendramandal2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12qpBCWIflX3UC2fF4v-nZKdR9ZR6nGZ7/view?usp=sharing](https://drive.google.com/file/d/12qpBCWIflX3UC2fF4v-nZKdR9ZR6nGZ7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12qpBCWIflX3UC2fF4v-nZKdR9ZR6nGZ7/view?usp=sharing)
 - ⚡ Fun fact **I love staying updated on the latest technological advancements happening around the world.**
 
 <h3 align="left">Connect with me:</h3>
