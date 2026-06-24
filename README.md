@@ -1,6 +1,6 @@
 ![logo](https://github.com/gajendramandal/gajendramandal/blob/main/Gajendra%20mandal.png)
 <h1 align="center">Hi 👋, I'm Gajendra Mandal</h1>
-<h3 align="center">Final Year Computer Science Engineering Student</h3>
+<h3 align="center">Data Science Undergrad '26 | AI • Computer Vision • IoT</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendramandal&label=Profile%20views&color=0e75b6&style=flat" alt="gajendramandal" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gajendramandal2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1S2fqOBXh_8PwCdwu5W1ngSxq5GC7XQCU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qc7k22z86HTQLgSHiT0I9YeHvtJhJj1n/view?usp=sharing)
 - ⚡ Fun fact **I love staying updated on the latest technological advancements happening around the world.**
 
 <h3 align="left">Connect with me:</h3>
