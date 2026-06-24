@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendramandal&label=Profile%20views&color=0e75b6&style=flat" alt="gajendramandal" /> </p>
 
-- 🔭 I’m currently working on [IoT devices]
+- 🔭 I’m currently working on IoT devices
 
 - 🌱 I’m currently learning **Computer Vision**
 
