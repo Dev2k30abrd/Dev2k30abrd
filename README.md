@@ -15,7 +15,7 @@
 - 🌱 Currently exploring **RAG pipelines, semantic search, and FastAPI backend systems**
 - 💬 Ask me about **Python, Machine Learning, LLMs, FastAPI, SQL, Data Analytics**
 - 📫 Reach me at **raidevansh90@gmail.com**
-- 📄 Check out my [Portfolio](https://devansh-portfolio-xi.vercel.app), [LinkedIn](https://linkedin.com/in/devansh-rai-473506327), [Instagram](https://www.instagram.com/rai._.devansh?igsh=dXVlOTNreGYxdTk1), [X](https://x.com/devansh_rai19)
+- 📄 Check out my [Portfolio](https://devansh-portfolio-xi.vercel.app), [LinkedIn](https://linkedin.com/in/devansh-rai-473506327), [Instagram](https://www.instagram.com/rai._.devansh?igsh=dXVlOTNreGYxdTk1)
 - ⚡ Fun fact: **I enjoy turning natural-language prompts into working circuits and code.**
 
 <h3 align="left">Connect with me:</h3>
