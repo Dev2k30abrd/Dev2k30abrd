@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dev2k30abrd&label=Profile%20views&color=2dd4bf&style=flat" alt="profile views" />
 </p>
 
-- 🔭 Currently working on **AI-based ESP32 Virtual Lab** — LLM-powered circuit simulation and Arduino code generation
+- 🔭 Currently working on **AI/ML, LLMs, RAG** projects
 - 🌱 Currently exploring **RAG pipelines, semantic search, and FastAPI backend systems**
 - 💬 Ask me about **Python, Machine Learning, LLMs, FastAPI, SQL, Data Analytics**
 - 📫 Reach me at **raidevansh90@gmail.com**
