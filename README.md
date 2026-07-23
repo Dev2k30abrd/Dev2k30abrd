@@ -1,6 +1,6 @@
 <div align="center">
 
-<img [src="./banner.svg" alt="Devansh Rai - Data Science Undergrad, AI/ML & Backend Engineer" width="100%](https://github.com/Dev2k30abrd/Dev2k30abrd/blob/main/banner.png)"/>
+<[img [src="./banner.svg" alt="Devansh Rai - Data Science Undergrad, AI/ML & Backend Engineer" width="100%](https://github.com/Dev2k30abrd/Dev2k30abrd/blob/main/banner.png)"/](https://github.com/Dev2k30abrd/Dev2k30abrd/blob/main/banner.svg)>
 
 </div>
 
