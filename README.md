@@ -36,8 +36,4 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev2k30abrd&show_icons=true&locale=en&layout=compact" alt="Dev2k30abrd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev2k30abrd&show_icons=true&locale=en" alt="Dev2k30abrd" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev2k30abrd&" alt="Dev2k30abrd" /></p>
