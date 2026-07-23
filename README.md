@@ -1,5 +1,5 @@
 ![logo](https://github.com/gajendramandal/gajendramandal/blob/main/Gajendra%20mandal.png)
-<h1 align="center">Hi 👋, I'm Gajendra Mandal</h1>
+<h1 align="center">Hi 👋, I'm Devansh Rai</h1>
 <h3 align="center">Data Science Undergrad '26 | AI • Computer Vision • IoT</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
