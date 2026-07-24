@@ -1,0 +1,66 @@
+<svg width="560" height="300" viewBox="0 0 560 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="win" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d1b12"/>
+      <stop offset="100%" stop-color="#02120a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- outer glow border -->
+  <rect x="4" y="4" width="552" height="292" rx="14" fill="none" stroke="#22c55e" stroke-opacity="0.35" stroke-width="2"/>
+
+  <!-- terminal window -->
+  <rect x="10" y="10" width="540" height="280" rx="12" fill="url(#win)" stroke="#22c55e" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="10" y="10" width="540" height="34" rx="12" fill="#031a0e"/>
+  <rect x="10" y="32" width="540" height="12" fill="#031a0e"/>
+  <circle cx="32" cy="27" r="6" fill="#ef4444"/>
+  <circle cx="54" cy="27" r="6" fill="#eab308"/>
+  <circle cx="76" cy="27" r="6" fill="#22c55e"/>
+  <text x="280" y="32" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#4ade80">devansh@ai-lab: ~/build</text>
+
+  <!-- code lines, each revealed with a typing animation -->
+  <g font-family="Consolas, Menlo, monospace" font-size="16" fill="#86efac">
+
+    <text x="28" y="80">
+      <tspan fill="#4ade80">import</tspan> torch, fastapi
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.02;0.06;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="28" y="110">
+      <tspan fill="#4ade80">class</tspan> LLMEngine:
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10;0.16;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="48" y="140">
+      <tspan fill="#4ade80">def</tspan> generate(prompt):
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22;0.30;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="68" y="170">
+      context = rag.retrieve(prompt)
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.36;0.46;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="68" y="200">
+      <tspan fill="#4ade80">return</tspan> model.infer(context)
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.52;0.62;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="28" y="230">
+      <tspan fill="#4ade80">$</tspan> uvicorn main:app --reload
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.68;0.76;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="28" y="255" fill="#4ade80">
+      &#10003; Build complete. Serving on :8000
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.82;0.9;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="28" y="264" width="9" height="16" fill="#4ade80">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
