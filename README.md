@@ -6,6 +6,7 @@
 
 <h3 align="center">Hi 👋, I'm Devansh Rai</h3>
 <p align="center">Data Science Undergrad (2024–2028) | AI • Machine Learning • LLMs • Backend Engineering</p>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Dev2k30abrd/Dev2k30abrd/main/coding_terminal.svg"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dev2k30abrd&label=Profile%20views&color=2dd4bf&style=flat" alt="profile views" />
