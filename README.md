@@ -5,8 +5,8 @@
 </div>
 
 <h3 align="center">Hi 👋, I'm Devansh Rai</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Dev2k30abrd/Dev2k30abrd/main/coding_terminal.svg"/>
 <p align="center">Data Science Undergrad (2024–2028) | AI • Machine Learning • LLMs • Backend Engineering</p>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Dev2k30abrd/Dev2k30abrd/main/coding_terminal.svg"/>
 
 
 <p align="center">
