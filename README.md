@@ -18,6 +18,7 @@
 - 💬 Ask me about **Python, Machine Learning, LLMs, FastAPI, SQL, Data Analytics**
 - 📫 Reach me at **raidevansh90@gmail.com**
 - 📄 Check out my [Portfolio](https://devansh-portfolio-xi.vercel.app), [LinkedIn](https://linkedin.com/in/devansh-rai-473506327), [Instagram](https://www.instagram.com/rai._.devansh?igsh=dXVlOTNreGYxdTk1)
+-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ed72817a-ef87-4683-a4bf-cbe5e4c3a435" /> Resume
 - ⚡ Fun fact: **I enjoy turning natural-language prompts into working circuits and code.**
 
 <h3 align="left">Connect with me:</h3>
