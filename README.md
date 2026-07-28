@@ -42,8 +42,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev2k30abrd&show_icons=true&locale=en&layout=compact" alt="Dev2k30abrd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev2k30abrd&show_icons=true&locale=en" alt="Dev2k30abrd" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=Dev2k30abrd&background=000000&border=22c55e&stroke=22c55e&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideNums=e5e7eb&sideLabels=a7f3d0&dates=6b7280&currStreakNum=f0fdf4&excludeDaysLabel=6b7280" alt="Dev2k30abrd" /></p>
+<h3 align="center">Contribution Activity</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dev2k30abrd/Dev2k30abrd/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+</p>
