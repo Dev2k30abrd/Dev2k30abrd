@@ -18,7 +18,7 @@
 - ⚡ Fun fact: **I enjoy turning natural-language prompts into working circuits and code.**
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/Dev2k30abrd/Dev2k30abrd/main/Devansh_Rai_Resume.pdf">
+  <a href="https://raw.githubusercontent.com/Dev2k30abrd/Dev2k30abrd/main/Devansh_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download_PDF-000000?style=for-the-badge&logo=readdotcv&logoColor=4ade80&labelColor=000000&color=0a3d1e" alt="Download Resume"/>
   </a>
 </p>
