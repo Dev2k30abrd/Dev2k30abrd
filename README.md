@@ -45,4 +45,4 @@
 <h3 align="center">Contribution Activity</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dev2k30abrd/Dev2k30abrd/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
-</p>
+</p> 
